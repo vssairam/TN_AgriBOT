@@ -1,0 +1,9 @@
+Use LangChain, Streamlit, FAISS, an OpenAI API key and write a Python Program to build a RAG App using Streamlit and Langchain that answers questions across several PDFs. 
+
+Provide an interface to upload several documents. You need to chunk them, embed them and put them all in one VectorDB. Report the number of chunks once the building is completed. 
+
+When a question is asked, with the answer you should provide the source that includes - file name and page number so that the user can validate it. Create a UI Interface to Allow the user to clear the search results and perform new searches / chat. Have the UI interface with agricultural background, pictures and color schemes as this bot will play the role of a Farmer Assistant.
+
+Name the file as TN_AgriBOT_Assistant.py. Read the API key from the Environment variable and maintain the session state. 
+
+Get me the Readme.md file as well for this exercise. 
